@@ -1,9 +1,12 @@
 {
   "expo": {
-    "name": "Blank Template (TypeScript)",
+    "name": "a100 mobile camera",
     "slug": "a100_mobile_camera",
     "privacy": "public",
     "sdkVersion": "36.0.0",
+    "android": {
+      "package": "com.technovik.a100_mobile_camera"
+    },
     "platforms": [
       "ios",
       "android",
